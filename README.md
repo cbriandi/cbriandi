@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles Briandi</h1>
-<h3 align="center">I am a 23 year old software engineer based in Sarasota, Florida, with a background rooted in programming.</h3>
+<h3 align="center">I am a 23 year old software engineer with a background rooted in programming.</h3>
 
 <!-- - 🔭 I’m currently working on [ProjectName](https://github.com/cbriandi/ProjectName) -->
 
