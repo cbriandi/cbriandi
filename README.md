@@ -3,14 +3,14 @@
 
 <!-- - 🔭 I’m currently working on [ProjectName](https://github.com/cbriandi/ProjectName) -->
 
-- 👨‍💻 All of my projects are available at [cbriandi.github.io](https://cbriandi.github.io/)
+<p align='center'>👨‍💻 All of my projects are available at [cbriandi.github.io](https://cbriandi.github.io/)</p>
 
-- 📫 How to reach me **briandicharles@gmail.com**
+<p align='center'>📫 Reach out to me at: **briandicharles@gmail.com**</p>
 
 <!-- - 📄 Know about my experiences [*insert resume here*](*insert resume here*) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools</h3>
+<p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
