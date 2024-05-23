@@ -5,7 +5,7 @@
 
 <p align='center'>👨‍💻 All of my projects are available at <a href='https://cbriandi.github.io/'>cbriandi.github.io</a></p>
 
-<p align='center'>📫 Reach out to me at: **briandicharles@gmail.com**</p>
+<p align='center'>📫 Reach out to me at: <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
 
 <!-- - 📄 Know about my experiences [*insert resume here*](*insert resume here*) -->
 
