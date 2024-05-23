@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on [ProjectName](https://github.com/cbriandi/ProjectName) -->
 
-<p align='center'>👨‍💻 All of my projects are available at [cbriandi.github.io](https://cbriandi.github.io/)</p>
+<p align='center'>👨‍💻 All of my projects are available at <a href='https://cbriandi.github.io/'>cbriandi.github.io</a></p>
 
 <p align='center'>📫 Reach out to me at: **briandicharles@gmail.com**</p>
 
