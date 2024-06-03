@@ -53,7 +53,7 @@
                     <img width="40%" src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=2dba4e&style=flat&logo=github&logo-color=white"/>
                 </a>  
             </p>
-            <p align="center"><strong>My personal portfolio site! Includes an about section, my skills, my projects and my resume.</p>
+            <p align="center"><strong>My personal portfolio site! Includes an about section, my skills, projects and resume.</p>
         </td>
         <td width="50%" valign="top">
         <h3 align="center">miRNACNet</h3>
