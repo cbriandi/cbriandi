@@ -23,7 +23,7 @@
                     <img width="40%" src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=2dba4e&style=flat&logo=github&logo-color=white"/>
                 </a>  
             </p>
-            <p align="center">Tech Solutions is a website that showcases professional web development services, including custom websites and e-commerce platforms.</p>
+            <p align="center">Tech Solutions is a website that showcases professional web development services.</p>
         </td>
         <td width="50%" valign="top">
         <h3 align="center">PokéData</h3>
@@ -45,7 +45,7 @@
             <h3 align="center">cbriandi.github.io</h3>
             <br />
             <a target="_blank" href="https://cbriandi.github.io/">
-                <img src="images\portfolio.gif" width="100%" alt="Portfolio Demo"/>
+                <img src="images\portfoliodemo.webp" width="100%" alt="Portfolio Demo"/>
             </a>
             <br /><br />
             <p align="center">
@@ -67,7 +67,7 @@
                 <img width="40%" src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=2dba4e&style=flat&logo=github&logo-color=white"/>
             </a>  
         </p>
-        <p align="center"><strong>This is only the frontend to my group's senior design project because I no longer have access to the database we initially used.</p>
+        <p align="center"><strong>This the frontend to my group's senior design project.</p>
         </td>
     </tr>
 </table>
