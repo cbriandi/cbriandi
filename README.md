@@ -1,12 +1,14 @@
 <img src="images\githubheader.png" width="100%">
-<h3 align="center" style="font-size:3rem;">Hi 👋, I'm Charles Briandi</h1>
-<p align='center' style="font-size:1.5rem;">👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
+<h3 align="center" style="font-size:5rem;">Hi 👋, I'm Charles Briandi</h1>
+<p align='center' style="font-size:3rem;">👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
 
-<p align='center' style="font-size:1.5rem;">📫 Reach out to me at <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
+<p align='center' style="font-size:3rem;">📫 Reach out to me at <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
 <!-- - 🔭 I’m currently working on [ProjectName](https://github.com/cbriandi/ProjectName) -->
 <!-- - 📄 Know about my experiences [*insert resume here*](*insert resume here*) -->
 
-<h3 align="center" style="font-size:3rem;">Projects</h1>
+---
+
+<h3 align="center" style="font-size:5rem;">My Projects</h1>
 <table width='100%'>
     <tr>
         <td width="50%" valign="top">
@@ -70,7 +72,9 @@
     </tr>
 </table>
 
-<h3 align="center" style="font-size:3rem;">Languages and Tools</h3>
+---
+
+<h3 align="center" style="font-size:5rem;">Languages and Tools</h3>
 <p align="center" width='100%'> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="9%" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="9%" > </a>
