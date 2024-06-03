@@ -1,4 +1,4 @@
-<img src="images\githubheader_nopic.png" width="100%">
+<img src="images\githubheader_nopic.webp" width="100%">
 <h3 align="center" style="font-size:5rem;">Hi 👋, I'm Charles Briandi</h1>
 <p align='center' style="font-size:3rem;">👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
 
