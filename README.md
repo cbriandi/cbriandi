@@ -1,14 +1,14 @@
 <img src="images\githubheader_nopic.webp" width="100%">
-<h1 align="center" style="font-size:5rem;">Hi 👋, I'm Charles</h1>
-<p align='center' style="font-size:3rem;">👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<p align='center'>👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
 
-<p align='center' style="font-size:3rem;">📫 Reach out to me at <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
+<p align='center'>📫 Reach out to me at <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
 <!-- - 🔭 I’m currently working on [ProjectName](https://github.com/cbriandi/ProjectName) -->
 <!-- - 📄 Know about my experiences [*insert resume here*](*insert resume here*) -->
 
 ---
 
-<h3 align="center" style="font-size:5rem;">My Projects</h1>
+<h3 align="center">My Projects</h1>
 <table width='100%'>
     <tr>
         <td width="50%" valign="top">
@@ -47,7 +47,7 @@
             <h3 align="center">cbriandi.github.io</h3>
             <br />
             <a target="_blank" href="https://cbriandi.github.io/">
-                <img src="images\portfoliodemo.webp" width="100%" alt="Portfolio Demo"/>
+                <img src="images\portfoliocut.webp" width="100%" alt="Portfolio Demo"/>
             </a>
             <br /><br />
             <p align="center">
@@ -61,7 +61,7 @@
         <h3 align="center">miRNACNet</h3>
         <br />
         <a target="_blank" href="https://mirnacnet-lite.onrender.com/">
-            <img src="images\mirnacnetdemo.webp" width="100%" alt="miRNACNet Demo"/>
+            <img src="images\mirnacnetcut.webp" width="100%" alt="miRNACNet Demo"/>
         </a>
         <br /><br />
         <p align="center">
@@ -76,7 +76,7 @@
 
 ---
 
-<h3 align="center" style="font-size:5rem;">Languages and Tools</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center" width='100%'> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="9%" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="9%" > </a>
