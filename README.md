@@ -24,6 +24,7 @@
                 </a>  
             </p>
             <p align="center">Tech Solutions is a website that showcases professional web development services.</p>
+            < /br>
         </td>
         <td width="50%" valign="top">
         <h3 align="center">PokéData</h3>
@@ -38,6 +39,7 @@
                 </a>  
             </p>
             <p align="center">PokéData is a responsive Pokédex web application that fetches and displays Pokémon information using PokeAPI.</p>
+            < /br>
         </td>
     </tr>
     <tr>
