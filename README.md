@@ -1,5 +1,5 @@
 <img src="images\githubheader_nopic.webp" width="100%">
-<h1 align="center" style="font-size:5rem;">Hi 👋, I'm Charles Briandi</h1>
+<h1 align="center" style="font-size:5rem;">Hi 👋, I'm Charles</h1>
 <p align='center' style="font-size:3rem;">👨‍💻 Check out my portfolio at <a href='https://cbriandi.github.io/' target='_blank'>cbriandi.github.io</a></p>
 
 <p align='center' style="font-size:3rem;">📫 Reach out to me at <a href='mailto:briandicharles@gmail.com'>briandicharles@gmail.com</a></p>
@@ -24,6 +24,7 @@
                 </a>  
             </p>
             <p align="center">Tech Solutions is a website that showcases professional web development services.</p>
+            <br />
         </td>
         <td width="50%" valign="top">
         <h3 align="center">PokéData</h3>
@@ -38,6 +39,7 @@
                 </a>  
             </p>
             <p align="center">PokéData is a responsive Pokédex web application that fetches and displays Pokémon information using PokeAPI.</p>
+            <br />
         </td>
     </tr>
     <tr>
@@ -53,7 +55,7 @@
                     <img width="40%" src="https://img.shields.io/static/v1?label=|&message=REPOSITORY&color=2dba4e&style=flat&logo=github&logo-color=white"/>
                 </a>  
             </p>
-            <p align="center"><strong>My personal portfolio site! Includes an about section, my skills, my projects and my resume.</p>
+            <p align="center"><strong>My personal portfolio site! Includes an about section, my skills, projects and resume.</p>
         </td>
         <td width="50%" valign="top">
         <h3 align="center">miRNACNet</h3>
